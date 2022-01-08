@@ -1,2 +1,2 @@
 # rs-school.cv
-My CV
+https://reider74.github.io/rs-school.cv/cv
